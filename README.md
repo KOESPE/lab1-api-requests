@@ -11,4 +11,4 @@ $ python3 -m venv venv
 ```console
 $ pip install requests
 ```
-4. Запустить файл main.py
+Готово! Осталось запустить файл main.py
